@@ -25,7 +25,7 @@
 </div>
 
 
-## ¿Como utilizarlo? (para desarrolladores)
+## ¿Como utilizarlo? (Para desarrolladores)
 * Clona el repositorio mediante `git clone https://github.com/emidev-arg/Dynamo-Reflex.git`
 * Una vez clonado, instala los paquetes necesarios para poder ejecutar el servidor.
 
