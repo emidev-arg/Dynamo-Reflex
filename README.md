@@ -7,12 +7,7 @@
 <p>Dynamo Reflex, es un bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
 
 <div align="left">
-  <p>jadda</p>
-</div>
-<p align="center">
-  <a href="https://www.paypal.me/AmitMerchant">
     <img src="https://img.shields.io/badge/ReactJS-30adf0">
-  </a>
-</p>
+</div>
 
 ![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)
