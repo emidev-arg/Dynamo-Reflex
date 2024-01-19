@@ -42,6 +42,6 @@ Para poder obtener los ID´s tanto de cliente, como de servidor y la clave API d
 * Dirígite a <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>
 * Crea una aplicación y dentro de la misma, su respectivo Bot, en la seccion de `Bot`
 * Configura las variables de entorno de tu proyecto con las credenciales de tu Bot y Aplicacion en `.env`
-* Generando una URL desde <a href="https://discord.com/developers/applications/">Discord Developer Portal</a> en la seccion de `OAuth2/URL Generator`. En la sección de Scopes, marca `bot`, y a continuación en sus permisos marca `Admistrator`
+* Genera una URL desde <a href="https://discord.com/developers/applications/">Discord Developer Portal</a> en la seccion de `OAuth2/URL Generator`. En la sección de Scopes, marca `bot`, y a continuación en sus permisos marca `Admistrator`. Una vez hecho esto, automaticamente te aparecerá generada la URL para invitar a tu Bot
 * Una vez configurado todo tu proyecto, abre una terminal desde el mismo directorio e inicia el proyecto con `node app.js`
 * Disfruta de tu Bot Inteligente.
