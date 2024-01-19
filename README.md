@@ -8,13 +8,7 @@
   </div>
 </h1>
 
-<p>Bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
-
-<div align="left">
-    <img src="https://img.shields.io/badge/DiscordJS-30adf0">
-  <img src="https://img.shields.io/badge/NodeJS-038005">
-  <img src="https://img.shields.io/badge/GPT-3.5-32ba6f">
-</div>
+<p align="center">Bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
 
 ![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)
 
