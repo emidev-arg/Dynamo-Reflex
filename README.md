@@ -15,7 +15,7 @@
 ![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)
 
 
-## ¿Como utilizarlo? (For Clients)
+## ¿Como utilizarlo? (Para clientes)
 * Para ejecutar Dynamo, necesitas invitarlo a tu servidor dandole click al boton de Invite Dynamo.
 * Una vez dentro de tu servidor, para inicializar el bot deberas utilizar: `/question [query]`.
 * Puede utilizarse en cualquier canal del servidor.
@@ -25,7 +25,7 @@
 </div>
 
 
-## ¿Como utilizarlo? (For Devs)
+## ¿Como utilizarlo? (para desarrolladores)
 * Clona el repositorio mediante `git clone https://github.com/emidev-arg/Dynamo-Reflex.git`
 * Una vez clonado, instala los paquetes necesarios para poder ejecutar el servidor.
 
@@ -42,5 +42,6 @@ Para poder obtener los ID´s tanto de cliente, como de servidor y la clave API d
 * Dirígite a <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>
 * Crea una aplicación y dentro de la misma, su respectivo Bot, en la seccion de `Bot`
 * Configura las variables de entorno de tu proyecto con las credenciales de tu Bot y Aplicacion en `.env`
-* Una vez configuradas, abre una terminal desde el mismo directorio e inicia el proyecto con `node app.js`
+* Generando una URL desde el portal de Discord en la seccion de `OAuth2/URL Generator` para invitar al Bot a tu servidor.
+* Una vez configurado todo tu proyecto, abre una terminal desde el mismo directorio e inicia el proyecto con `node app.js`
 * Disfruta de tu Bot Inteligente.
