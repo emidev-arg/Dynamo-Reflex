@@ -31,5 +31,5 @@
 
 ## Paquetes a instalar:
 * <img src="https://img.shields.io/badge/DotEnv-32ba6f"> Para poder utilizar variables de entorno (.env) `npm i dotenv`
-* <img src="https://img.shields.io/badge/DiscordJS-32ba6f"> Para poder inicializar el cliente y sus respectivas funciones `npm i discord.js`
+* <img src="https://img.shields.io/badge/DiscordJS-30adf0"> Para poder inicializar el cliente y sus respectivas funciones `npm i discord.js`
 
