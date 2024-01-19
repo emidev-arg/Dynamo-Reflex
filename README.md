@@ -15,8 +15,8 @@
 ![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)
 
 
-## ¿Como utilizarlo?
-<p>Para ejecutar Dynamo, necesitas invitarlo a tu servidor desde el link </p>
+## ¿Como utilizarlo? (For Clients)
+<p>Para ejecutar Dynamo, necesitas invitarlo a tu servidor desde el link que dejaremos a continuación.</p>
 
 <div align="left">
     <img src="https://img.shields.io/badge/DiscordJS-30adf0">
