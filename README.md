@@ -30,6 +30,6 @@
 * Una vez clonado, instala los paquetes necesarios para poder ejecutar el servidor.
 
 ## Paquetes a instalar:
-* DotEnv: Para poder utilizar variables de entorno (.env) `npm i dotenv`
+* <img src="https://dotenv.gallerycdn.vsassets.io/extensions/dotenv/dotenv-vscode/0.28.1/1699146869103/Microsoft.VisualStudio.Services.Icons.Default"> DotEnv: Para poder utilizar variables de entorno (.env) `npm i dotenv`
 * DiscordJS: Para poder inicializar el cliente y sus respectivas funciones: `npm i discordjs`
 
