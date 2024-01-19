@@ -33,10 +33,6 @@
 * <img src="https://img.shields.io/badge/DotEnv-32ba6f"> Para poder utilizar variables de entorno (.env) `npm i dotenv`
 * <img src="https://img.shields.io/badge/DiscordJS-30adf0"> Para poder inicializar el cliente y sus respectivas funciones `npm i discord.js`
 
-* ## ¿Como utilizarlo? (For Devs)
-* Clona el repositorio mediante `git clone https://github.com/emidev-arg/Dynamo-Reflex.git`
-* Una vez clonado, instala los paquetes necesarios para poder ejecutar el servidor.
-
 ## Inicializar proyecto:
 * Configura las variables de entorno de tu bot y aplicacion desde `.env`
 * Una vez configuradas, desde la terminal, inicia el proyecto con `node app.js`
