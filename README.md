@@ -10,9 +10,6 @@
 
 <p align="center">Bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
 
-![screenshot](https://res.cloudinary.com/dn7fidyht/video/upload/v1705703150/qvzqalzm7qg5lbbidwed.mp4)
-
-
 ## ¿Como utilizarlo? (Para clientes)
 * Para ejecutar Dynamo, necesitas invitarlo a tu servidor dandole click al boton de Invite Dynamo.
 * Una vez dentro de tu servidor, para inicializar el bot deberas utilizar: `/question [query]`.
