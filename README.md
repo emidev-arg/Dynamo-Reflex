@@ -8,6 +8,8 @@
 
 <div align="left">
     <img src="https://img.shields.io/badge/ReactJS-30adf0">
+  <img src="https://img.shields.io/badge/ReactJS-30adf0">
+  <img src="https://img.shields.io/badge/ReactJS-30adf0">
 </div>
 
 ![screenshot](https://res.cloudinary.com/dn7fidyht/image/upload/v1705599828/ohsorp90ppcvquxwvkv4.png)
