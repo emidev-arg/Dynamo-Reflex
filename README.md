@@ -4,7 +4,7 @@
 </h1>
 
 ## ¿Que es Dynamo Reflex?
-<p>dada</p>
+<p>Dynamo Reflex BOT, es un bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
 
 <p align="center">
   <a href="https://www.paypal.me/AmitMerchant">
