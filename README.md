@@ -20,6 +20,16 @@
 * Una vez dentro de tu servidor, para inicializar el bot deberas utilizar: `/question [query]`.
 * Puede utilizarse en cualquier canal del servidor.
 
-* <div align="left">
+<div align="left">
   <a href=""><img src="https://media.discordapp.net/attachments/1197653255526826034/1198002096998465566/invitedynamo.png?ex=65bd5165&is=65aadc65&hm=93524b392636ddb5f963f31380c061573ff89977fc298c32dcf8e6d0151dced7&=&format=webp&quality=lossless" width="200"></a>
 </div>
+
+
+## ¿Como utilizarlo? (For Devs)
+* Clona el repositorio mediante `git clone https://github.com/emidev-arg/Dynamo-Reflex.git`
+* Una vez clonado, instala los paquetes necesarios para poder ejecutar el servidor.
+
+## Paquetes a instalar:
+* DotEnv: Para poder utilizar variables de entorno (.env) `npm i dotenv`
+* DiscordJS: Para poder inicializar el cliente y sus respectivas funciones: `npm i discordjs`
+
