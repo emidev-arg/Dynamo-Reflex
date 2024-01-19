@@ -33,10 +33,14 @@
 * <img src="https://img.shields.io/badge/DotEnv-32ba6f"> Para poder utilizar variables de entorno (.env) `npm i dotenv`
 * <img src="https://img.shields.io/badge/DiscordJS-30adf0"> Para poder inicializar el cliente y sus respectivas funciones `npm i discord.js`
 
-## Inicializar proyecto:
-* Configura las variables de entorno de tu bot y aplicacion desde `.env`
-* Una vez configuradas, desde la terminal, inicia el proyecto con `node app.js`
-* Disfruta del Dynamo Reflex.
-
+  
 ## ⚠️ Importante ⚠️
 Para poder obtener los ID´s tanto de cliente, como de servidor y la clave API de CHATGPT, a continuación te dejo los enlaces para que puedas continuar con el proceso.
+
+
+## Inicializar proyecto:
+* Dirígite a <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>
+* Crea una aplicación y dentro de la misma, su respectivo Bot, en la seccion de `Bot`
+* Configura las variables de entorno de tu proyecto con las credenciales de tu Bot y Aplicacion en `.env`
+* Una vez configuradas, abre una terminal desde el mismo directorio e inicia el proyecto con `node app.js`
+* Disfruta de tu Bot Inteligente.
