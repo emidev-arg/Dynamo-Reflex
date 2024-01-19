@@ -19,7 +19,5 @@
 <p>Para ejecutar Dynamo, necesitas invitarlo a tu servidor desde el link que dejaremos a continuación.</p>
 
 <div align="left">
-    <img src="https://img.shields.io/badge/DiscordJS-30adf0">
-  <img src="https://img.shields.io/badge/NodeJS-038005">
-  <img src="https://img.shields.io/badge/GPT-3.5-32ba6f">
+  <p>Invitar dynamo</p>
 </div>
