@@ -37,6 +37,8 @@
   
 ## ⚠️ Importante ⚠️
 Para poder obtener los ID´s tanto de cliente, como de servidor y la clave API de CHATGPT, a continuación te dejo los enlaces para que puedas continuar con el proceso.
+* Inicia sesión en <a href="https://openai.com/">OpenAI</a> y dirígete a la sección de API Keys.
+* <a href="https://discord.com/developers/applications/">Discord Developer Portal</a>
 
 
 ## Inicializar proyecto:
