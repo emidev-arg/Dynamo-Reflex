@@ -37,3 +37,6 @@
 * Configura las variables de entorno de tu bot y aplicacion desde `.env`
 * Una vez configuradas, desde la terminal, inicia el proyecto con `node app.js`
 * Disfruta del Dynamo Reflex.
+
+## ⚠️ Importante ⚠️
+Para poder obtener los ID´s tanto de cliente, como de servidor y la clave API de CHATGPT, a continuación te dejo los enlaces para que puedas continuar con el proceso.
