@@ -7,7 +7,7 @@ const CLIENT_ID = process.env.CLIENT_ID;
 
 const ApiCHATGPT = new ChatGPTAPI({apiKey: process.env.API_KEY_CGPT})
 const client = new Client({ intents: [GatewayIntentBits.Guilds] })
-const rest = new REST({version: '10'}).setToken(process.env.TOKEN)
+const rest = new REST({version: '10'}).setToken(process.env.TOKEN_DISCORD_BOT)
 
 client.on(Events.ClientReady, () => {
 	console.log("Loged in:" + client.user.tag)
@@ -128,4 +128,4 @@ client.on(Events.InteractionCreate, async interaction => {
 })
 
 main();
-client.login(process.env.TOKEN)
+client.login(process.env.TOKEN_DISCORD_BOT)
