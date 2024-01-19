@@ -3,8 +3,7 @@
   <a href=""><img src="https://media.discordapp.net/attachments/1197653255526826034/1198020281277612062/68747470733a2f2f646973636f72642e6a732e6f72672f7374617469632f6c6f676f2e737667-svg.png?ex=65bd6255&is=65aaed55&hm=6d82165c8e5e3d9b717d7e0c40ba27588fbe28f2849ddd96b19ced9b29132dcb&=&format=webp&quality=lossless&width=1440&height=260"width="800"></a>
 </h1>
 
-## ¿Que es Dynamo Reflex?
-<p>Dynamo Reflex, es un bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
+<p>Bot inteligente de Discord, desarrollado con DiscordJS y la API de CHAT GPT 3.5, el cuál, responde las consultas que tu indiques en el campo correspondiente.</p>
 
 <div align="left">
     <img src="https://img.shields.io/badge/DiscordJS-30adf0">
