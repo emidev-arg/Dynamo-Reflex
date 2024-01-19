@@ -60,7 +60,7 @@ client.on(Events.InteractionCreate, async interaction => {
 			url: 'https://discord.js.org',
 			description: response.text,
 			thumbnail: {
-				url: 'https://media.discordapp.net/attachments/1197653255526826034/1197755209464684564/logo-dinamo-reflex.png?ex=65bc6b77&is=65a9f677&hm=c52b4e26584bde86593c5055210dca9917141c7b1ab9e086ef5c2eebac05398f&=&format=webp&quality=lossless',
+				url: 'image.png',
 			},
 			fields: [
 				{
@@ -71,7 +71,7 @@ client.on(Events.InteractionCreate, async interaction => {
 			timestamp: new Date().toISOString(),
 			footer: {
 				text: 'Dynamo Reflex Responses',
-				icon_url: 'https://media.discordapp.net/attachments/1197653255526826034/1197755209724727316/logo-dinamowhite.jpg?ex=65bc6b77&is=65a9f677&hm=4d5ed53d64037956f424888a27f783b1d7e89c39745834aa6a4fbf2ec775d557&=&format=webp',
+				icon_url: 'image-footer.jpg',
 			},
 		};
 
