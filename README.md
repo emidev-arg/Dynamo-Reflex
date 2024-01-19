@@ -16,7 +16,8 @@
 
 
 ## ¿Como utilizarlo? (For Clients)
-* Para ejecutar Dynamo, necesitas invitarlo a tu servidor dandole click al boton de Invite Dynamo, y una vez en tu servidor, ya podras utilizarlo de manera normal
+* Para ejecutar Dynamo, necesitas invitarlo a tu servidor dandole click al boton de Invite Dynamo.
+* Una vez dentro de tu servidor, para inicializar el bot deberas utilizar: `/question [query]`.
 
 <div align="left">
   <a href=""><img src="https://media.discordapp.net/attachments/1197653255526826034/1198002096998465566/invitedynamo.png?ex=65bd5165&is=65aadc65&hm=93524b392636ddb5f963f31380c061573ff89977fc298c32dcf8e6d0151dced7&=&format=webp&quality=lossless" width="200"></a>
